@@ -12,7 +12,8 @@
     "homepage": "https://github.com/helaplus/laravelchapchap",
     "keywords": ["Laravel", "Laravelchapchap"],
     "require": {
-        "illuminate/support": "~9"
+        "illuminate/support": "~9",
+        "helaplus/themes": "^0.0.1"
     },
     "require-dev": {
         "phpunit/phpunit": "~9.0",
