@@ -1,9 +1,9 @@
 <?php
 
-namespace helaplus\laravelchapchap\Http\Controllers;
+namespace Helaplus\Laravelchapchap\Http\Controllers;
 
 class MwanzoController extends Controller
-{ 
+{
     /*
     |--------------------------------------------------------------------------
     | Index
@@ -22,6 +22,6 @@ class MwanzoController extends Controller
 
     public function index()
     {
-        return view('chapchap::mwanzo');
+        return view('chapchap::mwanzo'); 
     }
 }
