@@ -2,8 +2,8 @@
 
 namespace helaplus\laravelchapchap\Http\Controllers;
 
-class MwanzoController extends AppController
-{
+class MwanzoController extends Controller
+{ 
     /*
     |--------------------------------------------------------------------------
     | Index
