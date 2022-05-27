@@ -22,6 +22,6 @@ class MwanzoController extends Controller
 
     public function index()
     {
-        return view('chapchap::mwanzo'); 
+        return view('laravelchapchap::mwanzo');  
     }
 }
